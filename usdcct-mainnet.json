@@ -1,0 +1,6 @@
+{
+  "name": "USDCCT Test",
+  "symbol": "USDCCT",
+  "description": "Mainnet test confidential token for the Solana confidential transfer POC. Not USDC and not issued by Circle. No value.",
+  "image": "https://raw.githubusercontent.com/fkorna01/pika/main/usdcct.png"
+}
